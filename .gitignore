@@ -1,6 +1,23 @@
-.env
+# Python
 __pycache__/
 *.pyc
-data/
-vector_db/
+
+# Environment
+.env
+venv/
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+airflow/airflow.db-shm
+airflow/airflow.db-wal
+
+# Vector DB
+vector_store/
+
+# Mac
 .DS_Store
+
+# IDE
+.vscode/
+.idea/
