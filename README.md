@@ -218,13 +218,6 @@ git clone https://github.com/SugashiniKaliappan/sec-10k-rag-system.git
 cd sec-10k-rag-system
 ```
 
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 # Future Improvements
 
